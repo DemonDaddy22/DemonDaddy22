@@ -2,7 +2,7 @@
 
 <img width="100%" src = "https://github.com/DemonDaddy22/DemonDaddy22/blob/master/portfolio.gif">
 
-<br>
+<br />
 
 [![Website](https://img.shields.io/website?label=shades-of-demon.com&style=for-the-badge&url=https://shades-of-demon.herokuapp.com/)](https://shades-of-demon.herokuapp.com/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/showstopper_rg?color=%2300acee&label=Follow%20Me&logo=twitter&logoColor=%2300acee&style=for-the-badge)
@@ -16,7 +16,7 @@
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohangupta22/)
 - 📸 Follow me on [Instagram](https://www.instagram.com/shades_of_demon/) and [Unsplash](https://unsplash.com/@shades_of_demon)
 
-<br>
+<br />
 
 ![Most languages used](https://github-readme-stats.demondaddy22.vercel.app/api/top-langs?username=demondaddy22&bg_color=45,000124,141414&text_color=f0fffc&title_color=3dffb8&layout=compact)
 
