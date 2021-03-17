@@ -13,8 +13,8 @@
 
 #### Get in touch: 
 
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohangupta22/)
-- 📸 Follow me on [Instagram](https://www.instagram.com/shades_of_demon/) and [Unsplash](https://unsplash.com/@shades_of_demon)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohangupta22)
+- 📸 Follow me on [Instagram](https://www.instagram.com/shadesofdemon) and [Unsplash](https://unsplash.com/@shades_of_demon)
 
 <br />
 
