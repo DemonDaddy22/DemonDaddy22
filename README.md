@@ -12,7 +12,7 @@
 <p align='left'>
   💻&nbsp; I'm a Full-stack Web Developer from Ludhiana, India.<br />
   💼&nbsp; Currently working as a Software Engineer at <a href='https://www.gameskraft.com/'>Gameskraft</a>.<br />
-  ⚛️&nbsp; Exploring React-native, NodeJS and TypeScript right now<br />
+  ⚛️&nbsp; Exploring React-native, NodeJS and TypeScript right now.<br />
   📸&nbsp; Apart from work, I love to engage in photography, gaming, music and binge-watching!
 </p>
 
@@ -63,7 +63,9 @@
   <img src='https://raw.githubusercontent.com/DemonDaddy22/github-stats-transparent/02b6906783ff74f11004011e876e3e6f8d1a1fe2/generated/languages.svg'>
 </p>
 
-<h3 align='center'>GitHub Streak&nbsp;&nbsp;📊</h3>
+<br />
+
+<h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
 <p align='center'>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=DemonDaddy22&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
 </p>
