@@ -1,23 +1,69 @@
-## ```<>Hello World 🙋</>```
+<h1 align='center'>
+  Namaste 🙏🏼 I'm <a href="https://shades-of-demon.herokuapp.com/">Rohan</a> 👨🏻‍💻
+</h1>
+<br />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer%20;Learning%20something%20new%20everyday%20;Feelings%20are%20for%20JavaScript%21%20&center=true&width=380&height=25"></a>
+</p>
 
-<img width="100%" src = "https://github.com/DemonDaddy22/DemonDaddy22/blob/master/portfolio.gif">
+<img align='right' src="https://user-images.githubusercontent.com/39908472/117534050-6cb81980-b00d-11eb-9587-b3f626ed271f.png" height="200" width="200">
+<br />
+<br />
+<p align='left'>
+  💻&nbsp; I'm a Full-stack Web Developer from Ludhiana, India.<br />
+  💼&nbsp; Currently working as a Software Engineer at <a href='https://www.gameskraft.com/'>Gameskraft</a>.<br />
+  ⚛️&nbsp; Exploring React-native, NodeJS and TypeScript right now<br />
+  📸&nbsp; Apart from work, I love to engage in photography, gaming, music and binge-watching!
+</p>
+
+<br />
+<br />
+
+<h3 align='center'>Let's connect!&nbsp;&nbsp;🤝</h3>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/rohangupta22/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/shadesofdemon">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://unsplash.com/@shades_of_demon">
+    <img src="https://img.shields.io/badge/unsplash-%23111111.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Showstopper_RG">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
 <br />
 
-[![Website](https://img.shields.io/website?label=shades-of-demon.com&style=for-the-badge&url=https://shades-of-demon.herokuapp.com/)](https://shades-of-demon.herokuapp.com/)
-![Twitter Follow](https://img.shields.io/twitter/follow/showstopper_rg?color=%2300acee&label=Follow%20Me&logo=twitter&logoColor=%2300acee&style=for-the-badge)
-
-- 👋🏻 I'm currently working as a Software Development Engineer at [OYO](https://www.oyorooms.com/)
-- 🎯 Focussed on exploring, learning and implementing new stuff
-- 💻 Trying to contribute more to open-source projects
-
-#### Get in touch: 
-
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohangupta22)
-- 📸 Follow me on [Instagram](https://www.instagram.com/shadesofdemon) and [Unsplash](https://unsplash.com/@shades_of_demon)
+<h3 align='center'>Tools and Technologies&nbsp;&nbsp;🧰</h3>
+<p align='center'>
+  <img src='https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>&nbsp;
+  <img src='https://img.shields.io/badge/React-282d33?style=for-the-badge&logo=react&logoColor=61dafb'>&nbsp;
+  <img src='https://img.shields.io/badge/NodeJS-026e00?style=for-the-badge&logo=javascript&logoColor=eaf5e9'>&nbsp;
+  <img src='https://img.shields.io/badge/SASS-d75893?style=for-the-badge&logo=sass&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/styled--components-CC6699?style=for-the-badge&logo=styled-components&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/Git-bf2c15?style=for-the-badge&logo=git&logoColor=white'>&nbsp;
+  <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>&nbsp;
+</p>
 
 <br />
 
-![Most languages used](https://github-readme-stats.demondaddy22.vercel.app/api/top-langs?username=demondaddy22&bg_color=45,000124,141414&text_color=f0fffc&title_color=3dffb8&layout=compact)
+<h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
+<p align='center'>
+  <img src='https://raw.githubusercontent.com/DemonDaddy22/github-stats-transparent/02b6906783ff74f11004011e876e3e6f8d1a1fe2/generated/overview.svg'>
+  <img src='https://raw.githubusercontent.com/DemonDaddy22/github-stats-transparent/02b6906783ff74f11004011e876e3e6f8d1a1fe2/generated/languages.svg'>
+</p>
 
-![GitHub stats](https://github-readme-stats.demondaddy22.vercel.app/api?include_all_commits=true&bg_color=45,000124,141414&text_color=f0fffc&icon_color=fff70a&title_color=3dffb8&username=DemonDaddy22&show_icons=true)
+<h3 align='center'>GitHub Streak&nbsp;&nbsp;📊</h3>
+<p align='center'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=DemonDaddy22&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
+</p>
