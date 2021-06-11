@@ -59,8 +59,8 @@
 
 <h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
 <p align='center'>
-  <img src='https://raw.githubusercontent.com/DemonDaddy22/github-stats-transparent/48441970ccbfd191b62425b60d67ed004635bbcd/generated/overview.svg'>
-  <img src='https://raw.githubusercontent.com/DemonDaddy22/github-stats-transparent/48441970ccbfd191b62425b60d67ed004635bbcd/generated/languages.svg'>
+  <img src='https://github.com/DemonDaddy22/github-stats-transparent/blob/output/generated/overview.svg'>
+  <img src='https://github.com/DemonDaddy22/github-stats-transparent/blob/output/generated/languages.svg'>
 </p>
 
 <br />
