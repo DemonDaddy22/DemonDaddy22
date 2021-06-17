@@ -1,6 +1,10 @@
 <h1 align='center'>
   Namaste 🙏🏼 I'm <a href="https://shades-of-demon.herokuapp.com/">Rohan</a> 👨🏻‍💻
 </h1>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/dynamic/json?color=054C8A&labelColor=033057&label=Profile%20Views&prefix=%20&query=value&suffix=%20&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdemondaddy%2Fecfc869b-0c97-4e43-ba47-f9d06ca0c182&style=for-the-badge&logo=github">
+</p>
 <br />
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer%20;Learning%20something%20new%20everyday%20;Feelings%20are%20for%20JavaScript%21%20&center=true&width=380&height=25"></a>
