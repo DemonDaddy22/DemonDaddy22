@@ -73,3 +73,12 @@
 <p align='center'>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=DemonDaddy22&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
 </p>
+
+<br />
+
+<h3 align='center'>Credits&nbsp;&nbsp;🎖</h3>
+<p align='center'>
+  <p align='center'>▪️ <a href="https://github.com/DenverCoder1/readme-typing-svg">GitHub README Streak Stats</a> by <a href="https://github.com/DenverCoder1">@DenverCoder1</a></p>
+  <p align='center'>▪️ <a href="https://github.com/DenverCoder1/readme-typing-svg">README Typing SVG</a> by <a href="https://github.com/DenverCoder1">@DenverCoder1</a></p>
+  <p align='center'>▪️ <a href="https://github.com/rahul-jha98/github-stats-transparent">GitHub Stats Transparent</a> by <a href="https://github.com/rahul-jha98">@rahul-jha98</a></p>
+</p>
