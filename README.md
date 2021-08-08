@@ -16,8 +16,8 @@
 <p align='left'>
   💻&nbsp; I'm a Full-stack Web Developer from Ludhiana, India.<br />
   💼&nbsp; Currently working as a Software Engineer at <a href='https://www.gameskraft.com/'>Gameskraft</a>.<br />
-  ⚛️&nbsp; Exploring React-native, NodeJS and TypeScript right now.<br />
-  📸&nbsp; Apart from work, I love to engage in photography, gaming, music and binge-watching!
+  ⚛️&nbsp; Exploring React-Native, NodeJS and TypeScript right now.<br />
+  📸&nbsp; Apart from work, I love to engage in photography, gaming, driving, music and binge-watching!
 </p>
 
 <br />
