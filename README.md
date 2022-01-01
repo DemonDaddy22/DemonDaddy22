@@ -10,7 +10,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer%20;Learning%20something%20new%20everyday%20;Feelings%20are%20for%20JavaScript%21%20&center=true&width=380&height=25"></a>
 </p>
 
-<img align='right' src="https://user-images.githubusercontent.com/39908472/117534050-6cb81980-b00d-11eb-9587-b3f626ed271f.png" height="200" width="200">
+<img align='right' src="https://user-images.githubusercontent.com/39908472/147855320-9b7143fc-d931-4810-b16f-174cd761f993.png" height="200" width="200">
+<br />
 <br />
 <br />
 <p align='left'>
