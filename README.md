@@ -30,13 +30,13 @@
   <a href="https://www.linkedin.com/in/rohangupta22/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/shadesofdemon">
+  <a href="https://instagram.com/0xrohang">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://unsplash.com/@shades_of_demon">
+  <a href="https://unsplash.com/@0xrohang">
     <img src="https://img.shields.io/badge/unsplash-%23111111.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/Showstopper_RG">
+  <a href="https://twitter.com/0xrohang">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
