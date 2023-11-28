@@ -2,12 +2,12 @@
   Namaste 🙏🏼 I'm <a href="https://rohangupta.xyz/">Rohan</a> 👨🏻‍💻
 </h1>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/dynamic/json?color=054C8A&labelColor=033057&label=Profile%20Views&prefix=%20&query=value&suffix=%20&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdemondaddy%2Fecfc869b-0c97-4e43-ba47-f9d06ca0c182&style=for-the-badge&logo=github">
-</p>
 <br />
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer%20;Learning%20something%20new%20everyday%20;Feelings%20are%20for%20JavaScript%21%20&center=true&width=380&height=25"></a>
+
+<p align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A55AF4&center=true&multiline=false&random=false&width=500&lines=A+full-stack+software+engineer;dabbling+around+with+JavaScript" alt="Typing SVG" /></a>
+  <br />
+  <a><img src="https://komarev.com/ghpvc/?username=DemonDaddy22&color=703BE7&style=for-the-badge" alt="Profile counter" /></a>
 </p>
 
 <img align='right' src="https://user-images.githubusercontent.com/39908472/147855320-9b7143fc-d931-4810-b16f-174cd761f993.png" height="200" width="200">
@@ -30,14 +30,14 @@
   <a href="https://www.linkedin.com/in/rohangupta22/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/kywylyme">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
   <a href="https://unsplash.com/@kywylyme">
     <img src="https://img.shields.io/badge/unsplash-%23111111.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/kywylyme">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/kywylyme">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+    <img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
@@ -46,17 +46,16 @@
 <h3 align='center'>Tools and Technologies&nbsp;&nbsp;🧰</h3>
 <p align='center'>
   <img src='https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>&nbsp;
+  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/React-282d33?style=for-the-badge&logo=react&logoColor=61dafb'>&nbsp;
   <img src='https://img.shields.io/badge/NodeJS-026e00?style=for-the-badge&logo=javascript&logoColor=eaf5e9'>&nbsp;
+  <img src='https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/SASS-d75893?style=for-the-badge&logo=sass&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white'>&nbsp;
-  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/styled--components-CC6699?style=for-the-badge&logo=styled-components&logoColor=white'>&nbsp;
-  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>&nbsp;
-  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/Git-bf2c15?style=for-the-badge&logo=git&logoColor=white'>&nbsp;
   <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>&nbsp;
 </p>
@@ -79,12 +78,3 @@
 <br />
 
 [![@kywylyme's Holopin board](https://holopin.io/api/user/board?user=kywylyme)](https://holopin.io/@kywylyme)
-
-<br />
-
-<h3 align='center'>Credits&nbsp;&nbsp;🎖</h3>
-<p align='center'>
-  <p align='center'>▪️ <a href="https://github.com/DenverCoder1/readme-typing-svg">GitHub README Streak Stats</a> by <a href="https://github.com/DenverCoder1">@DenverCoder1</a></p>
-  <p align='center'>▪️ <a href="https://github.com/DenverCoder1/readme-typing-svg">README Typing SVG</a> by <a href="https://github.com/DenverCoder1">@DenverCoder1</a></p>
-  <p align='center'>▪️ <a href="https://github.com/rahul-jha98/github-stats-transparent">GitHub Stats Transparent</a> by <a href="https://github.com/rahul-jha98">@rahul-jha98</a></p>
-</p>
