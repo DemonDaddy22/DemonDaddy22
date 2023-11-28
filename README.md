@@ -26,24 +26,18 @@
 <br />
 
 <h3 align='center'>Let's connect!&nbsp;&nbsp;🤝</h3>
+
 <p align='center'>
-  <a href="https://www.linkedin.com/in/rohangupta22/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://unsplash.com/@kywylyme">
-    <img src="https://img.shields.io/badge/unsplash-%23111111.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/kywylyme">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/kywylyme">
-    <img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rohangupta22/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin profile" /></a>&nbsp;
+  <a href="https://unsplash.com/@kywylyme"><img src="https://img.shields.io/badge/unsplash-111111.svg?&style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash profile" /></a>&nbsp;
+  <a href="https://instagram.com/kywylyme"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" /></a>&nbsp;
+  <a href="https://twitter.com/kywylyme"><img src="https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X profile" /></a>&nbsp;
 </p>
 
 <br />
 
 <h3 align='center'>Tools and Technologies&nbsp;&nbsp;🧰</h3>
+
 <p align='center'>
   <img src='https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>&nbsp;
   <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>&nbsp;
