@@ -16,7 +16,7 @@
 <br />
 <p align='left'>
   💻&nbsp; I'm a Full-stack Web Developer from Ludhiana, India.<br />
-  💼&nbsp; Currently working as a Senior Software Engineer at <a href='https://www.gameskraft.com/'>Gameskraft</a>.<br />
+  💼&nbsp; Currently working as a Tech Lead at <a href='https://www.gameskraft.com/'>Gameskraft</a>.<br />
   ⚛️&nbsp; Exploring React-Native, NodeJS and TypeScript right now.<br />
   📸&nbsp; Apart from work, I love to engage in photography, gaming, driving, music and binge-watching!<br />
   📒&nbsp; You can find some useful resources and stuff in my <a href='https://gist.github.com/DemonDaddy22'>gists</a>.<br />
